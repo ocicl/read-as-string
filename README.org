@@ -1,0 +1,10 @@
+* read-as-string
+
+Reading S-Expression string from stream.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/hyotang666/read-as-string.git   |
+| commit  | 8cc4e23  |
+| systems | read-as-string |
+|---------+-------------------------------------------|
+
